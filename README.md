@@ -30,11 +30,24 @@ A Python-based web scraper built using Selenium and BeautifulSoup to extract **r
 - **ChromeDriverManager** (automatic driver management)
 
 ---
+## 🚀 How to Run the Project
 
-## 🚀 How to Run
+### ✅ Run from Terminal
 
-### 1. Clone the Repository
+1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/odisha-rera-scraper.git
-cd odisha-rera-scraper
+   ```bash
+   git clone <repo-url>
+   cd odisha <directory>
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Run the Streamlit App:
+   ```bash
+    streamlit run scraper.py
+    ```
+
+
