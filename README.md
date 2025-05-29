@@ -38,7 +38,7 @@ A Python-based web scraper built using Selenium and BeautifulSoup to extract **r
 
    ```bash
    git clone <repo-url>
-   cd odisha <directory>
+   cd <directory>
 
 2. Install the required dependencies:
     ```bash
