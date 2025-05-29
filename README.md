@@ -51,8 +51,10 @@ A Python-based web scraper built using Selenium and BeautifulSoup to extract **r
     ```
 ---
 
-## Output
+## 📸 Output
 
-https://github.com/anshiikaa19/Web-Scraper/blob/f0c39e99d4c3eb6a48037c2cb9b1514cf7d6a775/Output.png
+![Image Alt](https://github.com/anshiikaa19/Web-Scraper/blob/f8072bbc39699c5c8be34b40d675eb6015d91504/Output.png)
+
+The output is displayed in a clean, interactive Streamlit table. Users can also download the entire dataset as a CSV file.
 
 
